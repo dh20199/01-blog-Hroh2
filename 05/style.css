@@ -1,3 +1,49 @@
+
+html {
+    font-family:"Roboto", sans-serif; 
+    background-color: #ccc;
+    box-sizing: border-box;
+}
+
+/* *, *:before, *:after {
+    box-sizing: inherit;
+} */
+
+main {
+    display: flexbox;
+    max-width:50rem;
+    border: 10px black solid;
+    padding: 10px;                      
+}
+
+header {
+    text-align: center;
+    background-color: royalblue;
+    padding-top: 5px;
+}
+
 article {
-    background:  #0000;;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flow-root;
+    display: grid;
+}
+
+article img {
+    max-width: 15rem;
+    float: left;
+    border-radius: 5px;
+    margin-right: 5px;
+}
+
+section.main {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+section.sources {
+    margin-left: 100px;
+    margin-right: 100px;
+    border-style: solid;
+    border-color: rgb(243, 9, 9); 
 }

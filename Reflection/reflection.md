@@ -1,0 +1,13 @@
+# Reflection
+
+In this assignment you've learned very basic HTML and CSS, the content and presentation layers of the web. Take this opportunity to think about how they might relate to your work as a historian. 
+
+## Question 1 (150 words)
+#### In Part 2, we explored the use of semantic elements such as `<header>`, `<article>`, and `<section>`. These elements make it easier for machines and non-visual browsers to navigate web pages. Why might this be important? (You might want to Google around a bit before answering!)
+
+Semantic elements – if used and implemented correctly – are used to help understand the hierarchy of the HTML content more easily by both users and machines. They are crucial to aiding in the understand of how webpages are structured and the process of building them. Given its role in enabling easier reading, semantics allows greater accessibility, and since it has a specific structure to be followed when used, it allows for the maintenance of clear codes. Without the semantic elements, the hierarchy of the HTML content so easily deduced due to it would be written out of order, without a sense of direction. Such would make it very difficult in the future to edit and maintain the webpage in cases where problems arise. Thanks to the semantic elements, they contribute greatly in making it easier to maintain and implement changes to webpages, which is often crucial for the long-term success and endurance of the webpage. 
+
+## Question 2 (150 words)
+#### In your CSS work, you learned how to change the presentation of material on the web without changing the content. Using a pen and paper, a drawing program, or (if you're feeling ambitious) real HTML and CSS, mock up 2 very different presentations of the information you displayed in your post. Put images of them on the Internet somewhere (but not in this repository) and link to them here. Write a brief paragraph discussing the effect of the presentaiton layer on the reader.
+
+The presentation layer affects as the name itself suggests, presentation. Impacting colours, borders, texts etc., it is crucial to the appearance of the content that has been written in HTML. It also makes a subtle difference by changing things such as borders, gaps, radius and shadows of presentation. All in all, the presentation layer is crucial and determines the arrangement of what has been written in HTML. As it may be observed from my pen and paper drawings which have been attached, the location of the image, writings, bibliography, font sizes etc.  have been altered, demonstrating the alternative possibilities of presentation using CSS.
